@@ -1,4 +1,4 @@
-# Hey, I'm Hariswaran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+# Hey, I'm HARISWARAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 I'm a passionate **Full Stack Developer** who loves building efficient, scalable, and user-centric applications. I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), and I'm deeply enthusiastic about solving real-world problems through code.
 
