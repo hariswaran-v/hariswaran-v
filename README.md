@@ -10,7 +10,8 @@ I'm a passionate **Full Stack Developer** who loves building efficient, scalable
 - 🔧 Skilled in React.js, Node.js, Express, MongoDB, and REST APIs.
 - 🔭 Currently working on modern web solutions with responsive UIs.
 - 🌱 Continuously learning backend engineering and system design.
-- 🔗 **Portfolio:** [](https://portfolio-with-react-ai.vercel.app/)
+- 🔗 **Portfolio:** [https://portfolio-with-react-ai.vercel.app/]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/hariswaran-venkatesh/]
 
 - 🎯 Always open to collaborating on interesting open-source projects.
 
@@ -35,7 +36,6 @@ I'm a passionate **Full Stack Developer** who loves building efficient, scalable
 
 Feel free to reach out and collaborate on interesting ideas!
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/hariswaran-venkatesh/]
 - 📷 **Instagram:** [instagram.com/yourinsta](https://www.instagram.com/hariswaran.venkatesh/?hl=en)
 - 📧 **Email:** hariswaranvenkatesh@gmail.com
 
